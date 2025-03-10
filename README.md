@@ -1,7 +1,7 @@
 # Travel Agency Management - C++ Application
 
 ## Overview
-This is a C++ application with a graphical user interface (GUI) for managing travel agency offers. The application allows users to add, update, delete, sort, filter travel offers based on various criteria and create a whish list where they can store their preferres offers. 
+This is a C++ application with a graphical user interface (GUI) for managing travel agency offers. The application allows users to add, update, delete, sort, filter travel offers based on various criteria and create a wish list where they can store their preferences.
 
 ## Features
 - **Add New Offers**: Users can input new travel offers with details like type, destination, departure date, and price.
